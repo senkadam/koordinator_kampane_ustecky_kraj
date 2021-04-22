@@ -19,6 +19,8 @@ Kampaň bude využívat *online stetkání a eventů*, na které si lidé během
 
 
 ## Kontaktní kampaň
+>Změnou, kterou hledáme ve světě, se musíme stát my sami.
+
 Kontaktní kampaň bude realizována pomocí dobrovolníků, příznivců a členů obou koaličních stran a se zapojením čelních kandidátů.
 
 Na samotném startu je nutné dobrovolnickou záladnu analyzovat:
