@@ -4,6 +4,7 @@ Tento dokument slouží jako příloha pro výběrové řízení na pozici [koor
 
 ![Zámek Jezeří](jezerizamek.jpg)
 ## Online kampaň
+> Internet je naše moře
 
 ### Kampaň na sociálních sítích
 Kampaň na sociálních sítích bude složená ze stranických profilů, které budou prezentovat:
