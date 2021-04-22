@@ -5,7 +5,7 @@ Tento dokument slouží jako příloha pro výběrové řízení na pozici [koor
 ## Hlavní cíl kampaně
 >Politika je především bojem proti blbosti, a to včetně blbosti vlastní. -M.Zeman
 
-
+**Představit koalici Pirátů a hnutí STAN a čelní kandidáty jako kompetetní osoby, které nesou moderní politické vize, znají místní problémy a budou tyto vize a řešení místních problémů účinně prosazovat na celostátní úrovni.**
 
 
 ![Zámek Jezeří](jezerizamek.jpg)
@@ -14,10 +14,15 @@ Tento dokument slouží jako příloha pro výběrové řízení na pozici [koor
 
 ### Kampaň na sociálních sítích
 Kampaň na sociálních sítích bude složená ze stranických profilů, které budou prezentovat:
-  - Prezentace celostátních témat, v koordinaci s celostátními sociálními sitěmi
-  - Prezentace jednotlivých kandidátů a kandidátek a jejich účasti ve velobní kampani
+  - celostátní témata, v koordinaci s celostátními sociálními sitěmi
+  - lokální témata
+  - účast kandidátů a kandidátek a jejich účasti ve volební kampani
 
-z z osobních profilů jendotlivých kandidátů a kandidátek. Ty by měli být sprovovány samotnými kandidáty, ale měli by být podpořeny i volebním týme. Bude na nich bude prezentováno:
+Dále z osobních profilů jendotlivých kandidátů a kandidátek. Ty by měly být sprovovány samotnými kandidáty, ale měli by být podpořeny i volebním týme. Bude na nich bude prezentováno:
+  - spojení kandidátů s celostátníma témata
+  - účast kandidátů na řešení lokálních témat
+  - práce ve volební kampani
+  - "lifestylový" obsah, který kandidáty tzv. polidští
 
 ### Setkávání v on-line prostoru
 
@@ -34,18 +39,25 @@ Na samotném startu je nutné dobrovolnickou záladnu analyzovat:
  - činnosti do kterých jsou ochotni a schopni se zapojit.
 
 
+
+Aktivity realizované v rámci kontaktní kampaně se budou prezentovat pomocí sociálních sítí a dalších výstupů
+
+
+
 ### Kampaň v ulicicíh 
 Během předvolební kampaně budou dobrovolníci rozdávat volební noviny a další merch.
 
 Dobrovolníci by měli být motivování k ad-hoc kontaktní kampani, která nemusí být koordinována z centrály, např.: ranní rozdávání novin na nádražích a zastávkách MHD.
 
 ### Vlastní předvolební akce
+Koalice Pirátů a STANu uspořádá vlastní meetingy, během kterých se budou občané moci s čelními kandidáty potkat.
 
 
 ### Účast na významných akcích v regionu
-Kandidáti a tým dobrovolníků se bude účastnit 
+Kandidáti a tým dobrovolníků se bude účastnit významných akcích v regionu. Především během měsíců září a říjen. Forma účasti bude odpovídat povaze akce.
 
 ### Setkávání s kauzami Ústeckého kraje
+Kandidáti se budou seznamovat s místními kauzami a budou se aktivně setkávat se obačny, jichž se kauzy dotýkají. 
 
 
 ## Média
