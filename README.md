@@ -2,11 +2,18 @@
 
 Tento dokument slouží jako příloha pro výběrové řízení na pozici [koordinátor kampaně - Ústecký kraj](https://forum.pirati.cz/viewtopic.php?f=572&t=57049).
 
-## Kampaň na sociálních sítích
-Prezentace na sociálních sítích by se měla skládat z:
+## Online kampaň
+
+### Kampaň na sociálních sítích
+Kampaň na sociálních sítích bude složená ze stranických profilů, které budou prezentovat:
   - Prezentace celostátních témat, v koordinaci s celostátními sociálními sitěmi
   - Prezentace jednotlivých kandidátů a kandidátek a jejich účasti ve velobní kampani
-  - 
+
+A z osobních profilů jendotlivých kandidátů a kandidátek na kterých bude prezentováno:
+
+Kampaň bude využívat *online stetkání a eventů*, na které si lidé během pandemického roku zvykli. Ať už se bude jednat o panelové streamované diskuze, přednášky, případně streamy s čelními kandidáty, které budou simulovat osobní setkání a budou umožňovat voličům se osobně s kandidáty "setkat" a diskutovat.
+
+
 ## Kontaktní kampaň
 
 ### Kampaň v ulicicíh 
