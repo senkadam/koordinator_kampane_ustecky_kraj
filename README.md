@@ -41,8 +41,8 @@ Dobrovolníci by měli být motivování k ad-hoc kontaktní kampani, která nem
 ### Setkávání s kauzami Ústeckého kraje
 
 
-## PR
-
+## Média
+Pro dosažení cílů kampaně je třeba posilovat přítomnost v lokálních médiích. Je důležité zaměřit se na mediální kanály nového typu jako jsou blogy, podcasty apod. s lokálním dopadem.
 
 
 ## Outdoor reklama
