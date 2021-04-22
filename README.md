@@ -40,4 +40,9 @@ Na samotném startu je nutné dobrovolnickou záladnu analyzovat:
 
 
 
-## Marketing
+## Outdoor reklama
+Zajistíme pronájem a relaizaci billboardů, přenosných trojnožek, polepu plakátovacích ploch a vyvěšení bannerů u dobrovolíků.
+
+Při dostatku financí lze realizovat reklamu na vozech MHD.
+
+Budeme motivovat příznivce, dobrovolníky, členy a kandidáty k nošení porátského/STAN oblečení
