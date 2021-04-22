@@ -11,10 +11,18 @@ Kampaň na sociálních sítích bude složená ze stranických profilů, které
 
 A z osobních profilů jendotlivých kandidátů a kandidátek na kterých bude prezentováno:
 
+### Setkávání v on-line prostoru
+
 Kampaň bude využívat *online stetkání a eventů*, na které si lidé během pandemického roku zvykli. Ať už se bude jednat o panelové streamované diskuze, přednášky, případně streamy s čelními kandidáty, které budou simulovat osobní setkání a budou umožňovat voličům se osobně s kandidáty "setkat" a diskutovat.
 
 
 ## Kontaktní kampaň
+Kontaktní kampaň bude realizována pomocí dobrovolníků, příznivců a členů obou koaličních stran a se zapojením čelních kandidátů.
+
+Na samotném startu je nutné dobrovolnickou záladnu analyzovat:
+ - časové možnosti dobrovolníků
+ - činnosti do kterých jsou ochotni a schopni se zapojit.
+
 
 ### Kampaň v ulicicíh 
 
@@ -25,3 +33,9 @@ Kampaň bude využívat *online stetkání a eventů*, na které si lidé během
 
 ### Setkávání s kauzami Ústeckého kraje
 
+
+## PR
+
+
+
+## Marketing
