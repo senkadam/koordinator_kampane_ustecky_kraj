@@ -11,7 +11,7 @@ Kampaň na sociálních sítích bude složená ze stranických profilů, které
   - Prezentace celostátních témat, v koordinaci s celostátními sociálními sitěmi
   - Prezentace jednotlivých kandidátů a kandidátek a jejich účasti ve velobní kampani
 
-A z osobních profilů jendotlivých kandidátů a kandidátek na kterých bude prezentováno:
+z z osobních profilů jendotlivých kandidátů a kandidátek. Ty by měli být sprovovány samotnými kandidáty, ale měli by být podpořeny i volebním týme. Bude na nich bude prezentováno:
 
 ### Setkávání v on-line prostoru
 
@@ -29,11 +29,14 @@ Na samotném startu je nutné dobrovolnickou záladnu analyzovat:
 
 
 ### Kampaň v ulicicíh 
+Během předvolební kampaně budou dobrovolníci rozdávat volební noviny a další merch.
+
+Dobrovolníci by měli být motivování k ad-hoc kontaktní kampani, která nemusí být koordinována z centrály, např.: ranní rozdávání novin na nádražích a zastávkách MHD.
 
 ### Vlastní předvolební akce
 
 
-### Účast na významných akcích v regioanu
+### Účast na významných akcích v regionu
 
 ### Setkávání s kauzami Ústeckého kraje
 
