@@ -2,7 +2,7 @@
 
 Tento dokument slouží jako příloha pro výběrové řízení na pozici [koordinátor kampaně - Ústecký kraj](https://forum.pirati.cz/viewtopic.php?f=572&t=57049).
 
-![Zámek Jezeří](zamekjezeri.jpg)
+![Zámek Jezeří](jezerizamek.jpg)
 ## Online kampaň
 
 ### Kampaň na sociálních sítích
