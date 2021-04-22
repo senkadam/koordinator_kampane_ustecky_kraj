@@ -2,6 +2,12 @@
 
 Tento dokument slouží jako příloha pro výběrové řízení na pozici [koordinátor kampaně - Ústecký kraj](https://forum.pirati.cz/viewtopic.php?f=572&t=57049).
 
+## Hlavní cíl kampaně
+>Politika je především bojem proti blbosti, a to včetně blbosti vlastní. -M.Zeman
+
+
+
+
 ![Zámek Jezeří](jezerizamek.jpg)
 ## Online kampaň
 > Internet je naše moře
@@ -19,7 +25,7 @@ Kampaň bude využívat *online stetkání a eventů*, na které si lidé během
 
 
 ## Kontaktní kampaň
->Změnou, kterou hledáme ve světě, se musíme stát my sami.
+>Změnou, kterou hledáme ve světě, se musíme stát my sami. -M.Gándhí
 
 Kontaktní kampaň bude realizována pomocí dobrovolníků, příznivců a členů obou koaličních stran a se zapojením čelních kandidátů.
 
@@ -37,15 +43,21 @@ Dobrovolníci by měli být motivování k ad-hoc kontaktní kampani, která nem
 
 
 ### Účast na významných akcích v regionu
+Kandidáti a tým dobrovolníků se bude účastnit 
 
 ### Setkávání s kauzami Ústeckého kraje
 
 
 ## Média
+> Zítra asi něco koupím. -A.Babiš
+
 Pro dosažení cílů kampaně je třeba posilovat přítomnost v lokálních médiích. Je důležité zaměřit se na mediální kanály nového typu jako jsou blogy, podcasty apod. s lokálním dopadem.
 
 
 ## Outdoor reklama
+>Kdybych měl v kapse poslední dolar, utratil bych ho za reklamu. -H.Ford
+
+
 Zajistíme pronájem a relaizaci billboardů, přenosných trojnožek, polepu plakátovacích ploch a vyvěšení bannerů u dobrovolíků.
 
 Při dostatku financí lze realizovat reklamu na vozech MHD.
