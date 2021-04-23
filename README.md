@@ -67,12 +67,9 @@ Kandidáti se budou seznamovat s místními kauzami a budou se aktivně setkáva
 Pro dosažení cílů kampaně je třeba posilovat přítomnost v lokálních médiích. Kampaň se krom klasických médii bude zaměřovat na mediální kanály nového typu jako jsou blogy, podcasty apod. s lokálním dopadem.
 
 
-## Outdoor reklama
+## Reklama
 >Kdybych měl v kapse poslední dolar, utratil bych ho za reklamu. -H.Ford
 
+Zajistíme pronájem a relaizaci billboardů, přenosných trojnožek, polepu plakátovacích ploch a vyvěšení bannerů u dobrovolíků. Při dostatku financí lze realizovat reklamu na vozech MHD.
 
-Zajistíme pronájem a relaizaci billboardů, přenosných trojnožek, polepu plakátovacích ploch a vyvěšení bannerů u dobrovolíků.
-
-Při dostatku financí lze realizovat reklamu na vozech MHD.
-
-Budeme motivovat příznivce, dobrovolníky, členy a kandidáty k nošení porátského/STAN oblečení
+Příznivci, dobrovolníci, členové a kandidáti budou motivováni k nošení Pirátského/STAN oblečení.
