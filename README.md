@@ -1,14 +1,14 @@
 # Vize kampaně pro koalici Pirátů a STANu
 
 Tento dokument slouží jako příloha pro výběrové řízení na pozici [koordinátor kampaně - Ústecký kraj](https://forum.pirati.cz/viewtopic.php?f=572&t=57049).
-
+![Zámek Jezeří](jezerizamek.jpg)
 ## Hlavní cíl kampaně
 >Politika je především bojem proti blbosti, a to včetně blbosti vlastní. -M.Zeman
 
 **Představit koalici Pirátů a hnutí STAN a čelní kandidáty jako kompetetní osoby, které nesou moderní politické vize, znají místní problémy a budou tyto vize a řešení místních problémů účinně prosazovat na celostátní úrovni.**
 
 
-![Zámek Jezeří](jezerizamek.jpg)
+![Koalice Pirátů a STANu](piratiball.png)
 ## Online kampaň
 > Internet je naše moře
 
