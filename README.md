@@ -1,11 +1,12 @@
 # Vize kampaně pro koalici Pirátů a STANu
 
 Tento dokument slouží jako příloha pro výběrové řízení na pozici [koordinátor kampaně - Ústecký kraj](https://forum.pirati.cz/viewtopic.php?f=572&t=57049).
+
 ![Zámek Jezeří](jezerizamek.jpg)
 ## Hlavní cíl kampaně
 >Politika je především bojem proti blbosti, a to včetně blbosti vlastní. -M.Zeman
 
-**Představit koalici Pirátů a hnutí STAN a čelní kandidáty jako kompetetní osoby, které nesou moderní politické vize, znají místní problémy a budou tyto vize a řešení místních problémů účinně prosazovat na celostátní úrovni.**
+**Představit čelní kandidáty koalice Pirátů a hnutí STAN jako kompetetní osoby, které nesou moderní politické vize, znají místní problémy a budou tyto vize a řešení místních problémů účinně prosazovat na celostátní úrovni.**
 
 
 ![Koalice Pirátů a STANu](piratiball.png)
@@ -16,17 +17,17 @@ Tento dokument slouží jako příloha pro výběrové řízení na pozici [koor
 Kampaň na sociálních sítích bude složená ze stranických profilů, které budou prezentovat:
   - celostátní témata, v koordinaci s celostátními sociálními sitěmi
   - lokální témata
-  - účast kandidátů a kandidátek a jejich účasti ve volební kampani
+  - účast kandidátů a kandidátek ve volební kampani a dalších činostech
 
-Dále z osobních profilů jendotlivých kandidátů a kandidátek. Ty by měly být sprovovány samotnými kandidáty, ale měli by být podpořeny i volebním týme. Bude na nich bude prezentováno:
-  - spojení kandidátů s celostátníma témata
+Dále z osobních profilů jendotlivých kandidátů a kandidátek. Ty by měly být sprovovány samotnými kandidáty za podpory volebního týmu. Bude na nich prezentováno:
+  - spojení kandidátů s celostátnímy tématy
   - účast kandidátů na řešení lokálních témat
   - práce ve volební kampani
   - "lifestylový" obsah, který kandidáty tzv. polidští
 
 ### Setkávání v on-line prostoru
 
-Kampaň bude využívat *online stetkání a eventů*, na které si lidé během pandemického roku zvykli. Ať už se bude jednat o panelové streamované diskuze, přednášky, případně streamy s čelními kandidáty, které budou simulovat osobní setkání a budou umožňovat voličům se osobně s kandidáty "setkat" a diskutovat.
+Kampaň bude využívat *online stetkání a eventů*, na které si lidé během pandemického roku zvykli. Ať už se bude jednat o panelové streamované diskuze, přednášky, případně streamy s čelními kandidáty, které budou simulovat osobní konakt a budou umožňovat voličům se osobně s kandidáty "setkat" a diskutovat.
 
 
 ## Kontaktní kampaň
@@ -34,11 +35,11 @@ Kampaň bude využívat *online stetkání a eventů*, na které si lidé během
 
 Kontaktní kampaň bude realizována pomocí dobrovolníků, příznivců a členů obou koaličních stran a se zapojením čelních kandidátů.
 
-Na samotném startu je nutné dobrovolnickou záladnu analyzovat:
+Na samotném startu jproběhne analýza dobrovolnické báze, která zjistí:
  - časové možnosti dobrovolníků
  - činnosti do kterých jsou ochotni a schopni se zapojit.
 
-
+Během kampaně bude docházet k motivaci dobrovolníků a kontinuálnímu zbírání zpětné vazby.
 
 Aktivity realizované v rámci kontaktní kampaně se budou prezentovat pomocí sociálních sítí a dalších výstupů
 
@@ -47,7 +48,7 @@ Aktivity realizované v rámci kontaktní kampaně se budou prezentovat pomocí 
 ### Kampaň v ulicicíh 
 Během předvolební kampaně budou dobrovolníci rozdávat volební noviny a další merch.
 
-Dobrovolníci by měli být motivování k ad-hoc kontaktní kampani, která nemusí být koordinována z centrály, např.: ranní rozdávání novin na nádražích a zastávkách MHD.
+Dobrovolníci budou motivování k ad-hoc kontaktní kampani, která nebude vždy koordinována z centrály, např.: ranní rozdávání novin na nádražích a zastávkách MHD.
 
 ### Vlastní předvolební akce
 Koalice Pirátů a STANu uspořádá vlastní meetingy, během kterých se budou občané moci s čelními kandidáty potkat.
@@ -63,7 +64,7 @@ Kandidáti se budou seznamovat s místními kauzami a budou se aktivně setkáva
 ## Média
 > Zítra asi něco koupím. -A.Babiš
 
-Pro dosažení cílů kampaně je třeba posilovat přítomnost v lokálních médiích. Je důležité zaměřit se na mediální kanály nového typu jako jsou blogy, podcasty apod. s lokálním dopadem.
+Pro dosažení cílů kampaně je třeba posilovat přítomnost v lokálních médiích. Kampaň se krom klasických médii bude zaměřovat na mediální kanály nového typu jako jsou blogy, podcasty apod. s lokálním dopadem.
 
 
 ## Outdoor reklama
