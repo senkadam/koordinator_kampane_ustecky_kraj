@@ -16,9 +16,11 @@ Tento dokument slouží jako příloha pro výběrové řízení na pozici [koor
 ## Regionální specifika
 > Jediná slušná místní věc je langoš s gyrosem v bistru u Bohouše. -g.cz o Rumburku
 
+Na začátku kampaně proběhne analýza (za asistence členské základny) regionálních specifik Ǔsteckého kraje, místních kauz a témat. Součástí bude analýza volebních výsledků Pirátů a STANu v předešlých volbách, síly členské a dobrovolnické základny v jednotlivých městech a regionech, místních médií a potenciálních spojenců z řad spolků, firem a dalších organizací.
+
 
 ## Online kampaň
-> Internet je naše moře
+> Internet je naše moře -Piráti
 
 ### Kampaň na sociálních sítích
 Kampaň na sociálních sítích bude složená ze stranických profilů, které budou prezentovat:
