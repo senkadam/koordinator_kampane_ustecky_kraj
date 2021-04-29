@@ -35,14 +35,15 @@ Kampaň bude využívat *online stetkání a eventů*, na které si lidé během
 
 Kontaktní kampaň bude realizována pomocí dobrovolníků, příznivců a členů obou koaličních stran a se zapojením čelních kandidátů.
 
-Na samotném startu jproběhne analýza dobrovolnické báze, která zjistí:
+Na samotném startu proběhne analýza dobrovolnické báze, která zjistí:
  - časové možnosti dobrovolníků
  - činnosti do kterých jsou ochotni a schopni se zapojit.
+
+Dobrovolníci bude nabízena možnost školení, které je naučí fungovat v kontaktní kampani, připraví je na konfliktní situace a pomůže jim zvládat obhajovat nejčastější kontroverzní témata. Kampaňový tým připravý krátký manuál pro dobrovolníky, který bude každému dobrovolníkovi k dispozici. Dobrovolníci budou připraveni i na "kontaktní kampaň" v on-lin prostoru. 
 
 Během kampaně bude docházet k motivaci dobrovolníků a kontinuálnímu zbírání zpětné vazby.
 
 Aktivity realizované v rámci kontaktní kampaně se budou prezentovat pomocí sociálních sítí a dalších výstupů
-
 
 
 ### Kampaň v ulicicíh 
@@ -59,6 +60,7 @@ Kandidáti a tým dobrovolníků se bude účastnit významných akcích v regio
 
 ### Setkávání s kauzami Ústeckého kraje
 Kandidáti se budou seznamovat s místními kauzami a budou se aktivně setkávat se obačny, jichž se kauzy dotýkají. 
+
 
 
 ## Média
