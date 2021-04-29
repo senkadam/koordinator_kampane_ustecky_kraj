@@ -2,7 +2,7 @@
 
 Tento dokument slouží jako příloha pro výběrové řízení na pozici [koordinátor kampaně - Ústecký kraj](https://forum.pirati.cz/viewtopic.php?f=572&t=57049).
 
-**Úkolem koordinátora kampaně bude jednotlivé činnosti vykonat, případně zajistit, že je vykonají jiné zodpovědné osoby, případně týmy.**
+**Úkolem koordinátora kampaně bude jednotlivé činnosti vykonat, případně zajistit, že je vykonají příslušné zodpovědné osoby, nebo týmy.**
 
 ![Zámek Jezeří](jezerizamek.jpg)
 ## Hlavní cíl kampaně
