@@ -2,6 +2,8 @@
 
 Tento dokument slouží jako příloha pro výběrové řízení na pozici [koordinátor kampaně - Ústecký kraj](https://forum.pirati.cz/viewtopic.php?f=572&t=57049).
 
+**Úkolem koordinátora kampaně bude jednotlivé činnosti vykonat, případně zajistit, že je vykonají jiné zodpovědné osoby, případně týmy.**
+
 ![Zámek Jezeří](jezerizamek.jpg)
 ## Hlavní cíl kampaně
 >Politika je především bojem proti blbosti, a to včetně blbosti vlastní. -M.Zeman
@@ -10,6 +12,11 @@ Tento dokument slouží jako příloha pro výběrové řízení na pozici [koor
 
 
 ![Koalice Pirátů a STANu](piratiball.png)
+
+## Regionální specifika
+> Jediná slušná místní věc je langoš s gyrosem v bistru u Bohouše. -g.cz o Rumburku
+
+
 ## Online kampaň
 > Internet je naše moře
 
@@ -39,7 +46,7 @@ Na samotném startu proběhne analýza dobrovolnické báze, která zjistí:
  - časové možnosti dobrovolníků
  - činnosti do kterých jsou ochotni a schopni se zapojit.
 
-Dobrovolníci bude nabízena možnost školení, které je naučí fungovat v kontaktní kampani, připraví je na konfliktní situace a pomůže jim zvládat obhajovat nejčastější kontroverzní témata. Kampaňový tým připravý krátký manuál pro dobrovolníky, který bude každému dobrovolníkovi k dispozici. Dobrovolníci budou připraveni i na "kontaktní kampaň" v on-lin prostoru. 
+Dobrovolníkům bude nabízena možnost školení, které je naučí fungovat v kontaktní kampani, připraví je na konfliktní situace a pomůže jim zvládat obhajovat nejčastější kontroverzní témata. Kampaňový tým připravý krátký manuál pro dobrovolníky, který bude každému dobrovolníkovi k dispozici. Dobrovolníci budou připraveni i na "kontaktní kampaň" v on-lin prostoru. 
 
 Během kampaně bude docházet k motivaci dobrovolníků a kontinuálnímu zbírání zpětné vazby.
 
